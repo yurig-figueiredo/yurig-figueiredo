@@ -23,8 +23,15 @@
 
 ###
 
+<pre align="center">I like:</pre>
+<p align="center"><em>Cybersecurity</em></p>
+<p align="center"><em>Reverse Engineering</em></p>
+<p align="center"><em>Chess</em></p>
+
+###
+<pre align="center">Only used for personal projects:</pre>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img width="12" />
